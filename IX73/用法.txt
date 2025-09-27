@@ -1,0 +1,2 @@
+"D:\Desktop\Focus_lock_IX73_ASI_Daheng\IX73\ 为主文件夹，在此处运行focuslock_73.py.
+相机参数设置为uc480_settings.ini文件，在主文件夹中，由uc480viewer软件导出
